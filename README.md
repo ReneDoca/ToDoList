@@ -6,11 +6,9 @@ en una lista que el puede visualizar el estatus en el que se encuentran.
 
 ## Visual y Uso
 
-![image](https://raw.githubusercontent.com/ReneDoca/CalculadoraLinearlayout/master/Screenshot_20191219-100004.png)
-
-![image](https://raw.githubusercontent.com/ReneDoca/CalculadoraLinearlayout/master/Screenshot_20191219-100040.png)
-
-![image](https://raw.githubusercontent.com/ReneDoca/CalculadoraLinearlayout/master/Screenshot_20191219-100046.png)
+![Screenshot_20191219-100040](https://user-images.githubusercontent.com/45215907/71198306-58bd1d80-2248-11ea-9d0f-40ca33007511.png)
+![Screenshot_20191219-100046](https://user-images.githubusercontent.com/45215907/71198344-6b375700-2248-11ea-95b6-a6e392cec6d8.png)
+![Screenshot_20191219-100004](https://user-images.githubusercontent.com/45215907/71198374-7a1e0980-2248-11ea-873a-4f9d683dca55.png)
 
 ## Planes a Futuro
 LA aplicacion debera der capaz de conectarse a una base de datos para guardar las tareas
